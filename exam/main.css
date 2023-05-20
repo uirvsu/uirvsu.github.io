@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    font-size: 17px;
     /* background-color: rgb(15, 15, 15); */
     background: black;
     background-size: cover ;
@@ -24,7 +25,8 @@ hr{
 }
 .header_title{
     font-size: 40px;
-    color: rgb(255, 208, 0);
+    /*color: rgb(255, 208, 0);*/
+    color: rgb(0, 196, 255);
 }
 .header_group{
     color: rgb(255, 255, 255);
@@ -39,6 +41,10 @@ hr{
 
 }
 
+td{
+    height:150px;
+    background-color: #c8d9ff;
+}
 
 th{
     width: 300px;
